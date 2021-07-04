@@ -5,3 +5,4 @@
 - Italo Raniery <italoraniery@gmail.com>
 - Jorge Morais <jorgemopanc@icloud.com>
 - Felipe Lisboa <felipe.lisboa.doc@gmail.com>
+- Rafhael Kayatt <rafhaelqueiroz@yahoo.com>
