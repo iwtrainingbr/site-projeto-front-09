@@ -19,3 +19,10 @@ article i {
 .galeria .card:hover {
 
 }
+
+.row .col-4:hover{
+  background: black;
+  box-shadow: 0 6px 10px 0 rgba(0,0,0,0.5);
+  transform: scale(1.2);
+  transition: 0.5s;
+}
