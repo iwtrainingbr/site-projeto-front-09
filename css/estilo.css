@@ -1,0 +1,17 @@
+body {
+  background-color: #EFEFEF;
+}
+
+article i {
+  font-size: 5rem !important;
+  margin-bottom: 10px;
+}
+
+.galeria .card {
+  transition: 0.5s;
+}
+
+.galeria .card:hover {
+  transform: scale(0.9);
+  transition: 0.5s;
+}
