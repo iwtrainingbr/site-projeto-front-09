@@ -15,3 +15,7 @@ article i {
   transform: scale(0.9);
   transition: 0.5s;
 }
+
+.galeria .card:hover {
+
+}
